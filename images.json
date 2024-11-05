@@ -1,22 +1,22 @@
 {
     "images": [
         {
-            "imgPath": "img/IMG_8779.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "imgPath": "img/lamatanza.jpg",
+            "imgLocation": "La Matanza BA, Argentina",
+            "description": "La Matanza is one of the 135 districts that make up the province of Buenos Aires, Argentina. It is part of the urban agglomeration of Greater Buenos Aires and is, in turn, the largest district bordering the city of Buenos Aires and the most populous in the entire province, with 1,841,247 inhabitants according to the 2022 census. It is the city in which my grandparents grew up in and my mom and aunt were born and raised.",
+            "date": "12/25/2023"
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "imgPath": "img/puertomadero2.jpg",
+            "imgLocation": "Puerto Madero, CABA, Argentina",
+            "description": "Puerto Madero, also known within the urban planning community as the Puerto Madero Waterfront, is a neighborhood of Buenos Aires in the Central Business District. Occupying a significant portion of the Río de la Plata riverbank, it is the site for several high-rise buildings and luxurious hotels, featuring the latest architectural trends. It is the neighborhood with by far the highest property price, surpassing the second-highest twofold. This was the location in which my grandparents celebrated their 50th wedding aniversary.",
+            "date": "12/27/2023"
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "imgPath": "img/casarosada.jpg",
+            "imgLocation": "Casa Rosada, Buenos Aires",
+            "description": "The Casa Rosada, or Pink House, is the official workplace of the President of Argentina, located in Buenos Aires. Also known as Casa de Gobierno, it is distinctively baby pink and one of the city's most iconic buildings. While the president resides at Quinta de Olivos, the official residence in Greater Buenos Aires, the Casa Rosada also features a museum showcasing artifacts related to former presidents and is recognized as a National Historic Monument of Argentina.",
+            "date": "12/27/2023"
         },
         {
             "imgPath": "img/places/greece.jpg",
@@ -78,5 +78,5 @@
             "description": "Istanbul",
             "date": "01/13/2016"
         }
-  ]
+    ]
 }
