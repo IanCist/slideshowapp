@@ -2,7 +2,7 @@
     "images": [
         {
             "imgPath": "img/lamatanza.jpg",
-            "imgLocation": "La Matanza BA, Argentina",
+            "imgLocation": "La Matanza PBA, Argentina",
             "description": "La Matanza is one of the 135 districts that make up the province of Buenos Aires, Argentina. It is part of the urban agglomeration of Greater Buenos Aires and is, in turn, the largest district bordering the city of Buenos Aires and the most populous in the entire province, with 1,841,247 inhabitants according to the 2022 census. It is the city in which my grandparents grew up in and my mom and aunt were born and raised.",
             "date": "12/25/2023"
         },
@@ -19,16 +19,16 @@
             "date": "12/27/2023"
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
+            "imgPath": "img/aldobonzi.jpg",
+            "imgLocation": "Aldo Bonzi, La Matanza, PBA",
+            "description": "The house in which my granparents, mom, aunt, and other family members lived in.",
+            "date": "12/23/2023"
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
+            "imgPath": "img/bariloche1.jpg",
+            "imgLocation": "San Carlos de Bariloche, Rio Negro Province, Argentina",
+            "description": "San Carlos de Bariloche (or commonly known as Bariloche) is a city located in the Rio Negro Province of Argentina towards the south of the country. Located in the foothills of the Andes on Nahuel Huapi Lake's southern shores, the city lies within Nahuel Huapi National Park. Developed in the 1930s and 1940s, it became a major tourism center with skiing, trekking, and mountaineering facilities, along with many restaurants, cafés, and chocolate shops. The permanent population was 108,205 in 2010, increasing to approximately 122,700 by 2015, with a projected population of 135,704 in 2020.",
+            "date": "1/01/2024"
         },
         {
             "imgPath": "img/places/india.jpg",
