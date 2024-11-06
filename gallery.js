@@ -1,6 +1,6 @@
 let mCurrentIndex = 0 // Tracks the current image index
 let mImages = [] // Array to hold GalleryImage objects
-const mUrl = 'https://github.com/IanCist/slideshowapp/blob/f5a27168da4d5949568dcb26eb193c2c4df8f8f2/images.json' // Replace with actual JSON URL
+const mUrl = 'images.json' // Replace with actual JSON URL
 const mWaitTime = 5000 // Timer interval in milliseconds
 
 $(document).ready(() => {
