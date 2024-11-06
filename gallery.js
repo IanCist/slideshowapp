@@ -1,6 +1,6 @@
 let mCurrentIndex = 0 // Tracks the current image index
 let mImages = [] // Array to hold GalleryImage objects
-const mUrl = 'https://your-json-url.com' // Replace with actual JSON URL
+const mUrl = 'https://github.com/IanCist/slideshowapp/blob/f5a27168da4d5949568dcb26eb193c2c4df8f8f2/images.json' // Replace with actual JSON URL
 const mWaitTime = 5000 // Timer interval in milliseconds
 
 $(document).ready(() => {
@@ -22,9 +22,15 @@ $(document).ready(() => {
 
 // Function to fetch JSON data and store it in mImages
 function fetchJSON () {
-  // Use $.ajax here to request the JSON data from mUrl
-  // On success, parse the JSON and push each image object into mImages array
-  // After JSON is loaded, call swapPhoto() to display the first image
+  $.ajax({
+    url: mUrl,
+    method: 'GET',
+    dataType: 'json',
+    success: (data) => {
+      mImages = data.images;
+      swapPhoto();
+    },
+  });
 }
 
 // Function to swap and display the next photo in the slideshow
