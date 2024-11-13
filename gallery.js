@@ -25,7 +25,7 @@ function fetchJSON () {
     url: mUrl,
     dataType: 'json',
     success: function (data) {
-      mImages = data;
+      mImages = data.images;
       swapPhoto();
     },
   });
