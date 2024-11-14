@@ -4,7 +4,7 @@ const mUrl = 'images.json' // Replace with actual JSON URL
 const mWaitTime = 5000 // Timer interval in milliseconds
 
 $(document).ready(() => {
-  $('.details').hide() // Hide details initially
+   $('.details').hide() // Hide details initially
 
   startTimer();
 
@@ -36,9 +36,9 @@ function swapPhoto () {
  const currentImage = mImages[mCurrentIndex];
 
  $('#photo').attr('src', currentImage.imgPath);
- $('.location').text(currentImage.imgLocation);
- $('.description').text(currentImage.description);
- $('.date').text(currentImage.date);
+ $('.location').text(`Location: ${currentImage.imgLocation}`);
+    $('.description').text(`Description: ${currentImage.description}`);
+    $('.date').text(`Date: ${currentImage.date}`);
 }
 
 // Advances to the next photo, loops to the first photo if the end of array is reached
