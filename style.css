@@ -92,3 +92,9 @@ Make it animate nicely. You'll need CSS3 for this */
     transform: rotate(270deg);
     transition: transform 0.3s ease;
 }
+
+#pauseButton {
+    font-size: 1rem;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
